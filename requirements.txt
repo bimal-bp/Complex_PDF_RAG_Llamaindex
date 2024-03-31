@@ -1,0 +1,9 @@
+llama-index-llm-huggingface
+llama-index-embeddings-huggingface
+transformers
+accelerate
+bitsandbytes
+llama-index
+llama-index-postprocessor-flag-embeddings-reranker 
+llama-parse
+pyvis 
