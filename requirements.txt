@@ -1,9 +1,9 @@
-llama-index-llm-huggingface
+llama-index-llms-huggingface
 llama-index-embeddings-huggingface
 transformers
 accelerate
 bitsandbytes
 llama-index
-llama-index-postprocessor-flag-embeddings-reranker 
+llama-index-postprocessor-flag-embedding-reranker 
 llama-parse
 pyvis 
